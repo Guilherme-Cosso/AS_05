@@ -1,5 +1,6 @@
-AS05: Implementação de Assistente Conversacional Baseado em LLM
-##TAREFA
+# AS05: Implementação de Assistente Conversacional Baseado em LLM
+
+## TAREFA
 Esta é a tarefa AS05: Implementação de Assistente Conversacional Baseado em LLM, uma atividade prática que estimula o aluno a absorver conceitos básicos de mineração e análise de texto.
 
 ## Problema
