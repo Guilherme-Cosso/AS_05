@@ -21,3 +21,8 @@ Ja treinei um modelo usando alguns livros de filosofia
 ### Criando o modelo.
 
 Siga as instuiçoes do [Collab](https://colab.research.google.com/drive/1Z63F5NQ34Of2iP_KeLDFH08sUfz-jEsG?usp=sharing)
+
+
+## Resultados 
+![image](https://github.com/Guilherme-Cosso/AS_05/assets/88469152/038c890a-7fb0-47e5-83d1-f00649e52ce0)
+
